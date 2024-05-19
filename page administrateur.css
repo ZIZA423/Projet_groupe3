@@ -1,0 +1,16 @@
+body{background:url('photo-1522071820081-009f0129c71c.avif') no-repeat;
+    background-size: cover;
+    margin-left: 35%;
+    margin-top: 10%;
+    font-size: 20px;
+    list-style-type: none;
+    color: azure;
+}
+h1{
+    color: rgb(80, 51, 182);
+    margin-left: -25%;
+}
+li a{
+    color: white;
+}
+

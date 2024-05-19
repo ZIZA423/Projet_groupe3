@@ -1,0 +1,33 @@
+nav{
+text-align: center;
+
+}
+a{
+    justify-content: right;
+    text-decoration: none;
+    margin: 3%;
+    color: white;
+    font-size: 150%;
+}
+body{
+    background: url('gg.jpg') no-repeat;
+    background-size: cover;
+}
+.UNCHK{
+    color: white;
+    margin-top: 12%;
+    margin-left: 10%;
+
+}
+.p1{
+    font-size: 500%;
+    margin-top: 1%;
+}
+.p2{
+    font-size: 200%;
+    margin-top: -8%;
+}
+a:hover{
+    color: rgb(151, 140, 140);
+   
+}

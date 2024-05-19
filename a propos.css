@@ -1,0 +1,19 @@
+.h1{text-align: center;
+color: blue;
+font-size: 120%;
+}
+
+a{justify-content: right;
+    text-decoration: none;
+    color: blue;
+    font-size: 150%;
+
+}
+
+body{ background-size: cover;
+     color: black;
+     font-size: 110%;
+}
+.important{ width: 5000;
+            height: 3000;
+}

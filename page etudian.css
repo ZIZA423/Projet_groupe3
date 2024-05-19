@@ -1,0 +1,66 @@
+.ACCUEIL{
+    color: white;
+    font-size: 20px;
+    margin-left:5% ;
+}
+.la-liste{list-style-type: none;
+          font-size:20px;
+          color: white;
+          margin-left: 75%;
+          margin-top: 1%;
+}
+
+.titre{color:white;
+       text-align: center;
+       font-size: 50px;
+       
+}
+
+.titre1{color: white;
+        text-align:start;
+        margin-left: 76%;
+        margin-top: 2%;
+}
+
+.Modifier{color:white;
+font-size: 20px;
+margin-right:-25%;
+}
+
+body{background:url('photo-1522071820081-009f0129c71c.avif') no-repeat;
+    background-size: cover;
+    
+}
+
+.touscours{
+
+    margin-right: 30%;
+    text-align: center;
+    margin-top:-20%;
+}
+
+.toutesnotes{
+    text-align: center;
+    color: white;
+    margin-top:8%;
+    margin-right: 30%;
+    
+}
+
+a{justify-content: right;
+  text-decoration: none;
+  margin: 3%;
+  color: white;
+  font-size: 140%;
+ 
+  padding: 15px;
+}
+.date{
+    color: red;
+    margin-top: 5%;
+    font-size: 20px
+}
+h1{
+    color: white;
+    font-size: 25px;
+}
